@@ -2,4 +2,4 @@
 
 # Sumbission-Required
 - Hosted Link:[click here](https://namishagurunani.github.io/Typography/)
-- Github Link:[click here]()
+- Github Link:[click here](https://github.com/namishagurunani/Typography)
