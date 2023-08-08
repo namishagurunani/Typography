@@ -3,7 +3,7 @@
 # Sumbission-Required
 - Hosted Link:[click here](https://namishagurunani.github.io/Typography/)
 - Github Link:[click here](https://github.com/namishagurunani/Typography)
-  
+
 # EXPLANATION:
 - The ".main" class styles the main container with flexbox properties, making its child elements arrange in a column layout. It also sets the font-family to a series 
   of fallback fonts, specifying that if one font is not available, the browser should try the next one in the list. It adds a bottom border with a dark color.
